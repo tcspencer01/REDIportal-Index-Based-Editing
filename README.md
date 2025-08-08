@@ -45,6 +45,8 @@ The output is a tab-delimited file with the following columns:
 - `total_positions_in_region`: Region length
 - `output_strand`: Strand used for AEI calculation
 
+---
+
 ## References
 [1] https://pubmed.ncbi.nlm.nih.gov/31636457/
 
